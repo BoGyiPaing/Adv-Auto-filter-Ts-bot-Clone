@@ -31,11 +31,13 @@ You Can Test Bot in this [Telegram Group](https://t.me/+mEK1-wL6H2ZkZmY1)
 
   * -> `/add chat_id`<br> 
 OR                              - ဂရုနဲ့ ချယ်နယ် ချိတ်ဖို အတွက် ဒီ အမိန့်ကို သုံးရမယ် (အက်တမင်က နှစ်နေရာလုံးပေးနော်) 
-     `/add @Username` 
+    
+ `/add @Username` 
 
   * -> `/del chat_id`<br> 
                                   ချယ်နယ်နဲ့ ဂရုချိတ်တာကို ဖြုတ်ဖို                            
-     `/del @Username` 
+  
+   `/del @Username` 
 
 
   * -> `/delall`ချယ်နယ်ရော ဂရုရော မှတ်ညဏ်ထဲသိမ်းထားသမျှ ဖိုင်တွေအကုန်ဖျက်ဖို ဒါကိုသုံးရမယ်
