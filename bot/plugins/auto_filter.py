@@ -184,7 +184,7 @@ async def auto_filter(bot, update):
         try:
             await bot.send_message(
                 chat_id = update.chat.id,
-                text=f"**😃 တွေ့ပီကွ \n\nသင်ရှာလိုက်တဲ့အဖြေက ဒါလေးပါ 👉 {query}**",
+                text=f"**😃 တွေ့ပါပြီး My Friend 😁  \n\n My Friend ရှာခိုင်းတာက 👉 {query} ကျနော် ရှာတွေတာကတော့ ဒါတွေပါ 👇  **",
                 reply_markup=reply_markup,
                 parse_mode="markdown",
                 reply_to_message_id=update.message_id
