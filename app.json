@@ -1,7 +1,7 @@
 {
     "name": "Adv-Auto-filter-Ts-bot-Clone",
     "description": "A Filter Bot Which Doesnt Need Manuall Filter Adding",
-    "logo": "https://telegra.ph/file/cf0c945839fed74e13d9f.jpg",
+    "logo": "https://telegra.ph/file/280a87d31d57fc1313b59.jpg",
     "keywords": [
         "Auto",
         "Filter",
@@ -32,17 +32,17 @@
             "value": ""
         },
         "BOT_NAME": {
-            "description": "Your bot's Name. Default will be RMC-Auto",
+            "description": "Your bot's Name. Default will be MKS-Auto",
             "value": "MKS-GP",
             "required": false
         },
         "GROUP_USERNAME": {
-            "description": "Your Group Username without '@'. Default will be RMC-GP",
+            "description": "Your Group Username without '@'. Default will be MKS-GP",
             "value": "MKS-GP", 
             "required": false
         },
         "ADMIN_USERNAME": {
-            "description": "Your User Bane without '@'. Default will be N-A-S",
+            "description": "Your User Bane without '@'. Default will be KPL",
             "value": "BoGyiPaing", 
             "required": false
         }
