@@ -1600,11 +1600,11 @@ async def cb_about(bot, update: CallbackQuery):
     if user_id not in VERIFY.get(str(chat_id)):
         return
 
-    text=f"<b><u>ဘော့ရဲ့ခြေနေ</u></b>\n"
+    text=f"<b><u>ဘော့ရဲ့ခြေနေ</u>အရမ်းကောင်း</b>\n"
     text+=f"\n<b>ဘော့နိုးချိန်:</b> <code>{time_formatter(time.time() - start_uptime)}</code>\n"
-    text+=f"\n<b>ဘော့ရဲ့ဖန်ရှင်:</b> <i>Auto Filter Files</i>\n"
-    text+=f"""\n<b>ဒီဘော့ရဲ့စပိုလုပ်သူ:</b> <a href="https://t.me/nas0055"></a>\n"""
-    text+="""\n<b>ဒီဘော့ရဲ့အဓိကကုတ်:</b> <a href="https://t.me/joinchat/HPXE9t6rejEzNDll">Touch Here 🥰</a>"""
+    text+=f"\n<b>ဘော့ရဲ့ဖန်ရှင်:</b> <i>ရှာချင်တာရှာပေးမယ်ဘော့ပါ</i>\n"
+    text+=f"""\n<b>ဒီဘော့ရဲ့စပိုလုပ်သူ:</b> <a href="https://t.me/Kopaing15"> Ko Paing Lay</a>\n"""
+    text+="""\n<b>ဒီဘော့ရဲ့အဓိကကုတ်:</b> <a href="https://t.me/AtoZ_MKS">Touch Here 🥰</a>"""
     buttons = [
         [
             #InlineKeyboardButton
