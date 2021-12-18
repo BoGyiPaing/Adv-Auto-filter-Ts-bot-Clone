@@ -30,7 +30,7 @@ __Just Sent Any Text As Query It Will Search For All Connected Chat's Files In I
 You Can Test Bot in this [Telegram Group](https://t.me/+mEK1-wL6H2ZkZmY1)
 
   * -> `/add chat_id`<br> 
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+      - ဂရုနဲ့ ချယ်နယ် ချိတ်ဖို အတွက် ဒီ အမိန့်ကို သုံးရမယ် (အက်တမင်က နှစ်နေရာလုံးပေးနော်) 
 OR 
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- To establish a connection of group with a channel (Bot should be admin with full previlages in both group and channel)<br> 
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`/add @Username` 
