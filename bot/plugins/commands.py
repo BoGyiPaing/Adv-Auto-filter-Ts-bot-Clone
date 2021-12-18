@@ -39,7 +39,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '📫 SUPPORT', url="https://t.me/allserieslinkchnel_rainbow"
+                                    '📫 SUPPORT', url="https://t.me/kpmovielist"
                                 )
                         ]
                     ]
@@ -58,7 +58,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '📫 SUPPORT', url="https://t.me/allserieslinkchnel_rainbow"
+                                    '📫 SUPPORT', url="https://t.me/kpmovielist"
                                 )
                         ]
                     ]
@@ -77,7 +77,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '📫 SUPPORT', url="https://t.me/allserieslinkchnel_rainbow"
+                                    '📫 SUPPORT', url="https://t.me/kpmovielist"
                                 )
                         ]
                     ]
@@ -90,7 +90,7 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('📫 SUPPORT', url='https://t.me/allserieslinkchnel_rainbow'),
+        InlineKeyboardButton('📫 SUPPORT', url='https://t.me/mksviplink'),
         InlineKeyboardButton('📕 ABOUT', callback_data="about")
     ],[
         InlineKeyboardButton('💡 HELP', callback_data="help"),
