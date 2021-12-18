@@ -27,7 +27,7 @@ __Just Sent Any Text As Query It Will Search For All Connected Chat's Files In I
 * -> Add me to your channel as admin with full previlages 
 
 **Bot Commands (Works Only In Groups) :** 
-You Can Test Bot in this [Telegram Group](https://www.telegram.dog/joinchat/HPXE9t6rejEzNDll)
+You Can Test Bot in this [Telegram Group](https://t.me/+mEK1-wL6H2ZkZmY1)
 
   * -> `/add chat_id`<br> 
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
@@ -96,7 +96,7 @@ python3 -m bot
 </details> 
 
 ## Support    
-Join My [Telegram Channel](https://www.telegram.dog/allserieslinkchnel_rainbow) For Myanmar Subtitle TV Series And Our [Movie Channel](https://www.telegram.dog/thaimovies_RMC_8) For Daily Updates.    
+Join My [Telegram Channel](https://www.telegram.dog/mksmainchannel) For Myanmar Subtitle TV Series And Our [Movie Channel](https://www.telegram.dog/mksviplink) For Daily Updates.    
     
 Report Bugs, Give Feature Requests There..    
 Do Fork And Star The Repository If You Liked It. 
