@@ -23,8 +23,8 @@ __Just Sent Any Text As Query It Will Search For All Connected Chat's Files In I
 
 **__How To Use Me!?__** 
 
-* -> Add me to any group and make me admin<br> 
-* -> Add me to your channel as admin with full previlages 
+* -> 📌 ငါ့ကို ကြိုက်တဲ့ ဂရုကိုထည့် ပီးရင် အက်တမင် ပေး<br> 
+* -> 📌 ီးတော့ သင်လိုချင်တဲ့ ချယ်နယ် ကိုလဲထည့် အက်တမင် ပေ
 
 **Bot Commands (Works Only In Groups) :** 
 You Can Test Bot in this [Telegram Group](https://t.me/+mEK1-wL6H2ZkZmY1)
@@ -32,8 +32,7 @@ You Can Test Bot in this [Telegram Group](https://t.me/+mEK1-wL6H2ZkZmY1)
   * -> `/add chat_id`<br> 
       - ဂရုနဲ့ ချယ်နယ် ချိတ်ဖို အတွက် ဒီ အမိန့်ကို သုံးရမယ် (အက်တမင်က နှစ်နေရာလုံးပေးနော်) 
 OR 
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- To establish a connection of group with a channel (Bot should be admin with full previlages in both group and channel)<br> 
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`/add @Username` 
+     `/add @Username` 
 
 
   * -> `/del chat_id`<br> 
@@ -47,9 +46,8 @@ OR
    
   * -> `/settings`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -  To disaply a Settings Pannel Instance which can be used to tweek bot's settings accordingly 
 
-    * -> Channel - Button will show you all the connected chats with the group along with there index buttons correspnding to there order for furthur controls... 
-
-    * -> Filter Types - Button will show you the 3 filter types available in bot... Pressing each buttons will either enable or disable them and this will take into action as soon as you use them...without the need of a restart.... 
+    * -> Channel - ယခုဂရုနဲ့ ချယ်နယ် ဘယ်လောက်ချိတ်ထားသလဲ ဆိုတာပြမယ့်အပြင် သက်ဆိုင်ရာချယ်နယ်တစ်ခုချင်းဆီအလိုက် နံပါတ်စဥ်လိုက်ခလုပ်များနှင်ပြသပေးမယ်။ထိုပြင် ယာယီဖြုတ်မယ်/ပြန်ချိတ်မည်(ချယ်နယ်) တိုကိုလည်းပြုလုပ်နိုင်သည်။
+    * -> Filter Types -ဘော့ရဲ့ အလုပ်လုပ်မယ် အပိုင်းပါ။ သွားမကလိပါနဲ့။အော်တိုင်းပဲထားပါ။
 
     * -> Configure - Button will help you to change no. of pages/ buttons per page/ total result without acutally editing the repo... Also it provide option to Enable/Disable  showing Invite Link in each results 
 
