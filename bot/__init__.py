@@ -21,11 +21,11 @@ DB_URI = os.environ.get("DB_URI")
 
 USER_SESSION = os.environ.get("USER_SESSION")
 
-BOT_NAME = os.environ.get("BOT_NAME", "rmcauto")
+BOT_NAME = os.environ.get("BOT_NAME", "BoGyiPaing")
 
-ADMIN_USERNAME = os.environ.get("ADMIN_USERNAME", "NAS")
+ADMIN_USERNAME = os.environ.get("ADMIN_USERNAME", "KPL")
 
-GROUP_USERNAME = os.environ.get("GROUP_USERNAME", "NAS")
+GROUP_USERNAME = os.environ.get("GROUP_USERNAME", "KPL")
 
 VERIFY = {}
 
