@@ -30,14 +30,11 @@ __Just Sent Any Text As Query It Will Search For All Connected Chat's Files In I
 You Can Test Bot in this [Telegram Group](https://t.me/+mEK1-wL6H2ZkZmY1)
 
   * -> `/add chat_id`<br> 
-   
 OR                              - ဂရုနဲ့ ချယ်နယ် ချိတ်ဖို အတွက် ဒီ အမိန့်ကို သုံးရမယ် (အက်တမင်က နှစ်နေရာလုံးပေးနော်) 
      `/add @Username` 
 
-
   * -> `/del chat_id`<br> 
-               
-OR                             ချယ်နယ်နဲ့ ဂရုချိတ်တာကို ဖြုတ်ဖို 
+                                  ချယ်နယ်နဲ့ ဂရုချိတ်တာကို ဖြုတ်ဖို                            
      `/del @Username` 
 
 
