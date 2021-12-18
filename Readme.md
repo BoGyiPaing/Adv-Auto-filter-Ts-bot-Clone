@@ -75,7 +75,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary> 
 <p> 
 <br> 
-<a href="https://heroku.com/deploy?template=https://github.com/konay1122/Adv-Auto-filter-Ts-bot-Clone/tree/main"> 
+<a href="https://heroku.com/deploy?template=https://github.com/BoGyiPaing/Adv-Auto-filter-Ts-bot-Clone/tree/main"> 
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"> 
 </a> 
 </p> 
