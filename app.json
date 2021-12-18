@@ -33,17 +33,17 @@
         },
         "BOT_NAME": {
             "description": "Your bot's Name. Default will be RMC-Auto",
-            "value": "RMC-Auto",
+            "value": "MKS-GP",
             "required": false
         },
         "GROUP_USERNAME": {
             "description": "Your Group Username without '@'. Default will be RMC-GP",
-            "value": "RMC-GP", 
+            "value": "MKS-GP", 
             "required": false
         },
         "ADMIN_USERNAME": {
             "description": "Your User Bane without '@'. Default will be N-A-S",
-            "value": "N-A-S", 
+            "value": "BoGyiPaing", 
             "required": false
         }
     },
