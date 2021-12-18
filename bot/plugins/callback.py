@@ -1276,7 +1276,7 @@ async def cb_show_invites(bot, update: CallbackQuery):
             [
                 InlineKeyboardButton
                     (
-                        "❎ DISABLE", callback_data=f"set(showInv|False|{chat_id}|{value})"
+                        "❎ ပိတ်မယ်", callback_data=f"set(showInv|False|{chat_id}|{value})"
                     )
             ],
             [
@@ -1292,7 +1292,7 @@ async def cb_show_invites(bot, update: CallbackQuery):
             [
                 InlineKeyboardButton
                     (
-                        "✅ ENABLE", callback_data=f"set(showInv|True|{chat_id}|{value})"
+                        "✅ ဖွင့်မယ်", callback_data=f"set(showInv|True|{chat_id}|{value})"
                     )
             ],
             [
@@ -1337,7 +1337,7 @@ async def cb_pm_file(bot, update: CallbackQuery):
             [
                 InlineKeyboardButton
                     (
-                        "❎ DISABLE", callback_data=f"set(inPM|False|{chat_id}|{value})"
+                        "❎ ပိတ်မယ်", callback_data=f"set(inPM|False|{chat_id}|{value})"
                     )
             ],
             [
@@ -1353,7 +1353,7 @@ async def cb_pm_file(bot, update: CallbackQuery):
             [
                 InlineKeyboardButton
                     (
-                        "✅ ENABLE", callback_data=f"set(inPM|True|{chat_id}|{value})"
+                        "✅ ဖွင့်မယ်", callback_data=f"set(inPM|True|{chat_id}|{value})"
                     )
             ],
             [
@@ -1530,7 +1530,7 @@ async def cb_set(bot, update: CallbackQuery):
             
             InlineKeyboardButton
                 (
-                    "🔐 CLOSE", callback_data="close"
+                    "🔐 ပိတ်မယ်", callback_data="close"
                 )
         ]
     ]
@@ -1575,7 +1575,7 @@ async def cb_status(bot, update: CallbackQuery):
             
             InlineKeyboardButton
                 (
-                    "🔐 CLOSE", callback_data="close"
+                    "🔐 ပိတ်မယ်", callback_data="close"
                 )
         ]
     ]
@@ -1620,7 +1620,7 @@ async def cb_about(bot, update: CallbackQuery):
         [
             InlineKeyboardButton
                 (
-                    "🔐 CLOSE", callback_data="close"
+                    "🔐 ပိတ်မယ်", callback_data="close"
                 )
         ]
     ]
