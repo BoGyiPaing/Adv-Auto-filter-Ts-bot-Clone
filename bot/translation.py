@@ -45,7 +45,7 @@ class Translation(object):
             
             👉 <code>Status</code> - ဒါကတော့ ချိတ်ထားတဲ့ ချယ်နယ်နဲ့ စုစုပေါင်းဘယ်လောက်ရှိတယ် ဘာညာ ကိုပြပေးတာပေါ့။(မသိလဲရပါတယ်)
             
-<b><a href="https://t.me/allserieslinkchnel_rainbow">©️ Rainbow_CH</a></b>
+<b><a href="https://t.me/mksviplink">©️ MKS&KP_CH</a></b>
 """
     
     ABOUT_TEXT = """
@@ -60,11 +60,11 @@ class Translation(object):
 
 ○ ဗားရှင်း : 1.0.0
 
-○ ပင်ရင်းကုတ် : [ᴄʟɪᴄᴋ ʜᴇʀᴇ 🥰](https://t.me/joinchat/HPXE9t6rejEzNDll)
+○ ပင်ရင်းကုတ် : [ᴄʟɪᴄᴋ ʜᴇʀᴇ 🥰](https://t.me/+mEK1-wL6H2ZkZmY1)
 
-○ ဖိုးစိတ်ဖြူ : [@N_A_S](https://t.me/nas0055)
+○ ဖိုးစိတ်ဖြူ : [ကိုပိုင်လေး](https://t.me/kopaing15)
 
 **မြန်မာစံတော်ချိန် ည ၁၁နာရီ ၂၃မိနစ် ဒီဇင်ဘာ ၁၇ရက်နေ့တွင် အဆင်မြှင့်ထားခဲ့သည်**
 
-**[©Rainbow_CH](https://t.me/allserieslinkchnel_rainbow)**
+**[©MKS_&_KP_CH](https://t.me/+3xS_MTfvJSEzZjY1)**
 """
